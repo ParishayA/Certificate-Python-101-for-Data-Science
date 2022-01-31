@@ -1,3 +1,3 @@
 # Certificate-Python-101-for-Data-Science
 
-![Capture](https://courses.cognitiveclass.ai/certificates/951061962a7140f58ae672be8ade2907)
+![Capture](https://github.com/ParishayA/Certificate-Python-101-for-Data-Science/blob/1307c939f2aeda102ab1c372b36bf55aa2fadc27/Parishay%20-%20IBM%20Certificate%20Python%20101%20for%20Data%20Science.JPG)
